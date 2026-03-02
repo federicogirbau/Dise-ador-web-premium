@@ -114,7 +114,7 @@ Get implementation-specific best practices. If user doesn't specify a stack, **d
 python3 .agent/skills/ui-ux-pro-max/scripts/search.py "<keyword>" --stack html-tailwind
 ```
 
-Available stacks: `html-tailwind`, `react`, `nextjs`, `vue`, `svelte`, `swiftui`, `react-native`, `flutter`, `shadcn`, `jetpack-compose`, `flowbite`, `daisyui`, `preline`, `tailgrids`, `seraui`, `floatui`, `merakiui`, `material-tailwind`, `tw-elements`, `headlessui`, `rippleui`, `hyperui`
+Available stacks: `html-tailwind`, `react`, `nextjs`, `vue`, `svelte`, `swiftui`, `react-native`, `flutter`, `shadcn`, `jetpack-compose`
 
 ---
 
@@ -137,30 +137,18 @@ Available stacks: `html-tailwind`, `react`, `nextjs`, `vue`, `svelte`, `swiftui`
 
 ### Available Stacks
 
-| Stack               | Focus                                                 |
-| ------------------- | ----------------------------------------------------- |
-| `html-tailwind`     | Tailwind utilities, responsive, a11y (DEFAULT)        |
-| `react`             | State, hooks, performance, patterns                   |
-| `nextjs`            | SSR, routing, images, API routes                      |
-| `vue`               | Composition API, Pinia, Vue Router                    |
-| `svelte`            | Runes, stores, SvelteKit                              |
-| `swiftui`           | Views, State, Navigation, Animation                   |
-| `react-native`      | Components, Navigation, Lists                         |
-| `flutter`           | Widgets, State, Layout, Theming                       |
-| `shadcn`            | shadcn/ui components, theming, forms, patterns        |
-| `jetpack-compose`   | Composables, Modifiers, State Hoisting, Recomposition |
-| `tailgrids`         | React-first, 600+ components, production-ready        |
-| `preline`           | 640+ components, simple HTML/Tailwind V4 support      |
-| `flowbite`          | 600+ components, interactive, multi-framework support |
-| `daisyui`           | Semantic classes, theme support, lightweight          |
-| `seraui`            | Copy-and-own React/Next.js components, animations     |
-| `floatui`           | Modern landing/dashboard sections, multi-framework    |
-| `merakiui`          | Minimalist, elegant components, production-ready      |
-| `material-tailwind` | Material Design aesthetics via Tailwind               |
-| `tw-elements`       | Material Design components for HTML, React, Vue       |
-| `headlessui`        | Unstyled, fully accessible interactive components     |
-| `rippleui`          | Minimalist components and page templates              |
-| `hyperui`           | Copy-paste marketing/e-commerce components            |
+| Stack             | Focus                                                 |
+| ----------------- | ----------------------------------------------------- |
+| `html-tailwind`   | Tailwind utilities, responsive, a11y (DEFAULT)        |
+| `react`           | State, hooks, performance, patterns                   |
+| `nextjs`          | SSR, routing, images, API routes                      |
+| `vue`             | Composition API, Pinia, Vue Router                    |
+| `svelte`          | Runes, stores, SvelteKit                              |
+| `swiftui`         | Views, State, Navigation, Animation                   |
+| `react-native`    | Components, Navigation, Lists                         |
+| `flutter`         | Widgets, State, Layout, Theming                       |
+| `shadcn`          | shadcn/ui components, theming, forms, patterns        |
+| `jetpack-compose` | Composables, Modifiers, State Hoisting, Recomposition |
 
 ---
 
